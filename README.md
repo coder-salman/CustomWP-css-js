@@ -12,6 +12,8 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Wordpress Directory: https://wordpress.org/plugins/custom-wp-css-js/
+
 
 Add your custom css and javascript/jquery using this plugin on Header or Footer.
 
